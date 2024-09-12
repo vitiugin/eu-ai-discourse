@@ -23,6 +23,8 @@ python topic_modeling.py data/data_news.csv
 ```
 
 where
-- data/data_news.csv -- is a path to the datafile (there are **data_news.csv** and **data_media.csv**).
 
-You can concatenate both **data_news.csv** and **data_media.csv** to get all documents.
+- data/data_news.csv -- is a path to datafile (there are avalilable **data_news.csv** and **data_eu_orgs.csv**).
+
+You can concatenate both **data_news.csv** and **data_eu_orgs.csv** to get all documents.
+
