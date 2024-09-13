@@ -1,10 +1,10 @@
 # eu-ai-discourse
 
-The repository contains the code implementation and dataset for the paper **Post-GPT Policy: Risk and Regulation in EU AI Discourse**.
+The repository contains the code implementation and dataset.
 
 ## Data preparation
 1. Download the documents based on the URLs in the `data` folder.
-2. Create 2 files: *data_news.csv* and *data_media.csv*. Each file should contain a column 'texts' with the news article texts.
+2. Create 2 files: *data_news.csv* and *data_eu_orgs.csv*. Each file should contain a column 'texts' with the news article texts.
 
 ## Installation
 
