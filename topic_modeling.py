@@ -37,7 +37,7 @@ seed_topic_list = [['Bias', 'Discrimination', 'Non-discrimination', 'Fair', 'Fai
             ['Attack', 'Cyber', 'Cybersecurity', 'Malicious', 'Adversarial'], # Cyber threats and malicious use
             ['Misinformation', 'Disinformation', 'Fake news'], # Mis- and disinformation
             ['Environmental', 'Environment', 'Sustainable', 'Sustainability', 'Climate', 'Ecological'], # Environment and sustainability
-            ['Labor', 'Job', 'Work', 'Workforce', 'Company', 'Public service', 'Public sector']] # Labor market
+            ['Labor', 'Job', 'Work', 'Workforce', 'Public service', 'Public sector']] # Labor market
 
 vectorizer_model = CountVectorizer(stop_words="english", ngram_range=(1, 2))
 
