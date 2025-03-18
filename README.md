@@ -1,4 +1,4 @@
-# eu-ai-discourse
+# Post-GPT Policy: Risk and Regulation in EU AI Discourse
 
 The repository contains the code implementation and dataset.
 
